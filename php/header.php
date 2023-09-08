@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from demo.bosathemes.com/html/travele/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 21 Aug 2023 09:01:26 GMT -->
+
 
 <head>
     <!-- Required meta tags -->
